@@ -1,2 +1,2 @@
-# w3c-school
+# w3-school
 HTML, CSS, JavaScript Example
