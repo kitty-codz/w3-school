@@ -1,0 +1,11 @@
+<DOCTYPE! html>
+<html>
+<body>
+<p title=" all you do for this is type -p title="your text here" -/p-">
+<h2> HTML Attributes give's details on element's like little element's in element's. it show's you how to add imiges, links and more</h2>
+</p>
+<h1> to add immigise you type -img src ="w3cschool.jpg" alt "the link to an immige here" width " " heighgt " "- </h1>
+<h1> you can change the language bye putting "lang= - " into the top right below -DOCTYPE html- so it look's like "html lang= - " </h1>
+<h1> the last this is a link. all you do is type -a herf="your link here"- your text here -/a- </h1>
+</body>
+</html>
