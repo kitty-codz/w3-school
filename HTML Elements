@@ -1,0 +1,12 @@
+<DOCTYPE html>
+<html>
+<body>
+<h1> In HTML Elements there are many thing's to do and learn. </h1> 
+<p1> like The -html- element defines the whole document.</p1>
+It has a start tag -html- and an end tag -/html-. </h1>
+<p> also stuff like The -body- element defines the document body.
+It has a start tag -body- and an end tag -/body-.</p>
+<p> Last there is Heading's and paragraph's. to use paragraph you type -p- and end with -/p- for heading you start with -h- and end with -/h- </p>
+<h2>  the-  on the left side meant (<) and the - on the right side ment (>) </h2>
+</body>
+</html>
