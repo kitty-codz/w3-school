@@ -1,0 +1,13 @@
+DOCTYPE html
+html
+body
+<h1> HTML Styles is all about well styles. </h1>
+<p> in this you will learn how to make text chage color, size and more! </p>
+<p>I am normal</p>
+<p style="color:purple;">I am Purple</p>
+<p style="color:turquoise;">I am Turquoise</p>
+<p style="font-size:36px;">I am BIG</p>
+<p style="font-size:11px;">I am small</p>
+<p> all you type for all 4 of these is:</p>
+<h3> for the color one's you type -p style="color:your color here;">your text here -/p- <h3>
+<h3> for size you type :-p style="font-size:#px;">I am small -/p- </h3>
