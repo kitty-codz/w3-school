@@ -8,5 +8,6 @@
 <p> well after Html we are learnig CSS then we are learnig java. </p>
 <h1> How do i know what to type? </h1>
 <p> well i will be giving example's its up to your creativity to decied what to do with the code. </p>
+<h1> if you have any questions just comment and i will repliy.</h1>
 </body>
 
